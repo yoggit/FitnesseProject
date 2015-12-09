@@ -15,7 +15,7 @@ public class MultiplyNumbers {
 	} 
 	
 	public double MultiplyNum(){
-		return Num3 = Num1-Num2;
+		return Num3 = Num1*Num2;
 	}
 }
 
